@@ -17,3 +17,5 @@ Predicts crop stress using environmental data
 Sends live alerts through a mobile dashboard
 
 Detects abnormal or tampered sensor readings for secure farming
+
+🛠 Technologies used: ESP32, Arduino IDE, Blynk IoT, Wokwi Simulation, VS Code, and Git.
