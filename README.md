@@ -6,7 +6,7 @@ In addition to smart irrigation, AgriSentinel includes a Crop Stress Index (CSI)
 
 The project was first validated using Wokwi simulation and then implemented on real hardware. AgriSentinel combines IoT, edge intelligence, cloud monitoring, and cybersecurity to provide a low-cost, innovative, and farmer-friendly solution for modern agriculture.
 
-🔹 What our project does:
+What our project does:
 
 Monitors soil moisture, temperature, and humidity in real time
 
